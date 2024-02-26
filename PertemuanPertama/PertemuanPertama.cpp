@@ -3,7 +3,17 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n"; // sama aja kayak yang bawah
-    cout << "Hello World!" << endl;
+ 
+    // begin
+    
+        // numeric nJejari, nLuas
+        // display 'Masukan jejari = '
+        // accept  nJejari
+        // compute nLuas 22/7 * r * r
+        // display = 'Luas lingkarannya adalah ' + nLuas
+    // end
+
+    double nJejari, nLuas;
+   
 
 }
