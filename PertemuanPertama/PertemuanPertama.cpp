@@ -17,6 +17,6 @@ int main()
     cout << "Masukan jejari = "; // display
     cin >> nJejari;
     nLuas = 22 / 7 * nJejari * nJejari;
-    cout << "Luas lingkarannya = " << endl;
+    cout << "Luas lingkarannya = " << nLuas << endl;
 
 }
