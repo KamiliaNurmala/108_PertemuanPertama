@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
- 
+
     // begin
-    
+
         // numeric nJejari, nLuas
         // display 'Masukan jejari = '
         // accept  nJejari
@@ -15,6 +15,8 @@ int main()
 
     double nJejari, nLuas;
     cout << "Masukan jejari = "; // display
-   
+    cin >> nJejari;
+    nLuas = 22 / 7 * nJejari * nJejari;
+    cout << "Luas lingkarannya = " << endl;
 
 }
