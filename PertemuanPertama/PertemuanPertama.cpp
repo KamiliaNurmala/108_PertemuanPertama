@@ -14,7 +14,7 @@ int main()
     // end
 
     double nJejari, nLuas;
-    cout << "Masukan jejari = ";
+    cout << "Masukan jejari = "; // display
    
 
 }
